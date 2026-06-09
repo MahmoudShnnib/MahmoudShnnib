@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Mahmoud Shnnib 👋
 
-<!--
-**MahmoudShnnib/MahmoudShnnib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Head of Technical Sales | Software Engineer 
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Electronic Technology Graduate
+- 💼 ERPNext Implementation & Customization
+- ☁️ Laravel, FilamentPHP, ERPNext
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/mahmoud-shnnib-678aa7342/
+- Email: shnnibmahmoud@gmail.com
