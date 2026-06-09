@@ -1,13 +1,19 @@
 # Hi, I'm Mahmoud Shnnib 👋
 
-Head of Technical Sales | Software Engineer 
+### Software Engineer | Head of Technical Sales
 
-## About Me
-- 🎓 Electronic Technology Graduate
-- 💼 ERPNext Implementation & Customization
-- ☁️ Laravel, FilamentPHP, ERPNext
+Designing and delivering enterprise solutions that streamline operations, automate workflows, and improve user experiences.
 
-## Contact
+## Expertise
 
-- LinkedIn: https://www.linkedin.com/in/mahmoud-shnnib-678aa7342/
-- Email: shnnibmahmoud@gmail.com
+* Enterprise Systems Development
+* ERPNext Customization & Integration
+* Laravel & FilamentPHP Applications
+* Process Automation & Digital Transformation
+
+## connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A0A0A?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mahmoud-shnnib-678aa7342/)
+   
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-0A0A0A?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/218911011851)
+   
+[![Email](https://img.shields.io/badge/Email-Contact-0A0A0A?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:shnnibmahmoud@gmail.com)
